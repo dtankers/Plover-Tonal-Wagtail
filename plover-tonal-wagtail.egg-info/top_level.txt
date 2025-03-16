@@ -1,1 +1,1 @@
-plover-tonal-wagtail
+tonal-wagtail
