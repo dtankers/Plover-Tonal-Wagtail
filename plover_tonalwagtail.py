@@ -88,7 +88,7 @@ KEYMAPS = {
     }
 }
 
-DICTIONARIES_ROOT = 'asset:plover_wagtail:dictionaries'
+DICTIONARIES_ROOT = 'asset:plover_tonalwagtail:dictionaries'
 DEFAULT_DICTIONARIES = (
 	'wagtail-tonal-briefs',
 	'wagtail-tonal-1char.json',
