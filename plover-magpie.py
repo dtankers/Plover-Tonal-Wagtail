@@ -88,11 +88,11 @@ KEYMAPS = {
     }
 }
 
-DICTIONARIES_ROOT = 'asset:plover-tonal-wagtail:dictionaries'
+DICTIONARIES_ROOT = 'asset:plover-magpie:dictionaries'
 DEFAULT_DICTIONARIES = (
-	'wagtail-tonal-briefs',
-	'wagtail-tonal-1char.json',
-	'wagtail-tonal-2char.json',
-	'wagtail-tonal-commands.json',
-	'wagtail-tonal-phrasing.py'
+	'magpie-briefs',
+	'magpie-1char.json',
+	'magpie-2char.json',
+	'magpie-commands.json',
+	'magpie-phrasing.py'
 	)
