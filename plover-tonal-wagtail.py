@@ -68,8 +68,8 @@ KEYMAPS = {
         'Z-': 'R-',
         'B-': '*3',
         'G-': '*1',
-        'Ƨ-': 'A',
-        'Ч-': 'O',
+        'Ƨ-': 'A-',
+        'Ч-': 'O-',
 
         '-G': '*2',
         '-B': '*4',
@@ -81,14 +81,14 @@ KEYMAPS = {
         '-E': '-G',
         '-N': '-T',
         '-W': '-S',
-        '-Ƨ': 'E',
-        '-Ч': 'U',
+        '-Ƨ': '-E',
+        '-Ч': '-U',
 
         'no-op': ('res1', 'res2', 'Fn', 'pwr'),
     }
 }
 
-DICTIONARIES_ROOT = 'asset:plover_tonalwagtail:dictionaries'
+DICTIONARIES_ROOT = 'asset:plover-tonal-wagtail:dictionaries'
 DEFAULT_DICTIONARIES = (
 	'wagtail-tonal-briefs',
 	'wagtail-tonal-1char.json',
