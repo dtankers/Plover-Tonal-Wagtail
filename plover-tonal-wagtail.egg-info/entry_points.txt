@@ -1,2 +1,2 @@
 [plover.system]
-Tonal Wagtail = plover-tonal-wagtail
+TonalWagtail = plover-tonal-wagtail
