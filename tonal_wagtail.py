@@ -4,7 +4,7 @@ KEYS = (
     '-G', '-B', '-D', '-Z', '-I', '-U', '-A', '-E', '-N', '-O', '-Ƨ', '-Ч',
 )
 
-IMPLICIT_HYPHEN_KEYS = ('Ƨ-','Ч-','-Ƨ','-Ч')
+IMPLICIT_HYPHEN_KEYS = ()
 
 SUFFIX_KEYS = ()
 
@@ -14,7 +14,7 @@ NUMBERS = {}
 
 FERAL_NUMBER_KEY = False
 
-UNDO_STROKE_STENO = "Ƨ-"
+UNDO_STROKE_STENO = "Ƨ-Ƨ"
 
 ORTHOGRAPHY_RULES = []
 
