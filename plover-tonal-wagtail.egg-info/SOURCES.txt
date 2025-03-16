@@ -1,5 +1,5 @@
 README.md
-plover-tonal-wagtail.py
+tonal_wagtail.py
 setup.cfg
 setup.py
 plover-tonal-wagtail.egg-info/PKG-INFO
